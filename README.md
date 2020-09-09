@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitallwin&layout=compact)
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://ankitallwin.com
+[twitter]: https://twitter.com/ankit_allwin
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/ankit.allen007
+[linkedin]: https://linkedin.com/in/ankitallwin
+[webdevplaylist]: https://www.youtube.com/
+[jsplaylist]: https://www.youtube.com/
+[cssplaylist]: https://www.youtube.com/
+[reactplaylist]: https://www.youtube.com/
