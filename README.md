@@ -44,9 +44,24 @@ Here are some ideas to get you started:
 
 ---
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitallwin&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitallwin&layout=compact)
+
+<a href="https://github.com/ankitallwin/shipi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitallwin&repo=shipi&show_icons=true&theme=algolia" />
+</a>
+<a href="https://github.com/ankitallwin/Covid19-IndiaTracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitallwin&repo=Covid19-IndiaTracker&show_icons=true&theme=algolia" />
+</a>
+
+<br />
+
+<a href="https://github.com/ankitallwin/ankit-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitallwin&repo=ankit-portfolio&show_icons=true&theme=algolia" />
+</a>
+<a href="https://github.com/ankitallwin/vanilla-todo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitallwin&repo=vanilla-todo&show_icons=true&theme=algolia" />
+</a>
+
 
 [website]: https://ankitallwin.com
 [twitter]: https://twitter.com/ankit_allwin
