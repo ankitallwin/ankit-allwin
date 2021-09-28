@@ -1,6 +1,37 @@
 # Hi there, I'm Ankit Allwin
 <img src="https://github.com/ankitallwin/ankitallwin/blob/master/ankit-allwin-Header.png" alt="banner that says Ankit Allwin - Full Stack Developer, UI / UX Dev and Constant Learner">
 
+#### Do you want to know more about me?
+
+```javascript
+const ankitallwin = {
+    pronouns: "he" | "him",
+    education:[
+       {
+           level:"junior",
+           major:"frontend devloper"   
+       }
+    ],
+    skills:{
+        programmingLanguages: ["javascript", "java", "python"],
+        frontendDevelopment:["react","redux","tailwindcss","material-ui","bootstrap"],
+        backendDevelopment:["node.js","express"],
+        database:["mongoDB","mysql","sqlite"],
+        baas:["firebase", "heroku"],
+        testing: ["jest"],
+        software:["illustrator","photoshop","xd"],
+        gameEngines:["unity"]
+    },
+    blog: {
+        platform: "instagram",
+        name:"@who.is.allen",
+        followers:"6.1k",
+    },
+    currentlyLearning:["reactjs","gsap"],
+    challenge: "I am doing #365DaysOfCode challenge to enhance my skills for fullstack development."
+}
+```
+
 [![Website](https://img.shields.io/website?label=ANKITALLWIN.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ankitallwin.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankit_allwin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
