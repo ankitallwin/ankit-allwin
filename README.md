@@ -38,8 +38,7 @@ const ankitallwin = {
 I'm a full stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Html5, Css3, Bootstrap5, ReactJS, NodeJS, Mysql & MongoDB.
 
 Here are some ideas to get you started:
-- :pizza:­ I'm currently working on #pizza-Ordering-With-ReactJS.
-- :page_with_curl: I'm currently learning nodeJS & reactJS.
+- :page_with_curl: I'm currently learning reactjs & nodeJS.
 - :two_men_holding_hands: I'm looking to collaborate with other developers.
 - :six_pointed_star: 2020 Goals: Contribute more to Open Source projects.
 - :zap: Fun Fact: I Love to draw and play guitar.
